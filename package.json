@@ -1,0 +1,21 @@
+{
+  "name": "docuverse-decide-eval",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "description": "Noun-table decide material accuracy eval (standalone; does not modify main Docuverse)",
+  "scripts": {
+    "start": "node --experimental-strip-types src/server/main.ts",
+    "eval": "node --experimental-strip-types scripts/eval-decide.ts",
+    "smoke": "node --experimental-strip-types scripts/smoke-noun.ts",
+    "test:s0": "node --experimental-strip-types scripts/test-s0-only.ts",
+    "test:full": "node --experimental-strip-types scripts/test-complete-pipeline.ts",
+    "test:new": "node --experimental-strip-types scripts/test-new-pipeline.ts",
+    "publish:ps": "powershell -ExecutionPolicy Bypass -File scripts/push-to-github.ps1",
+    "publish:sh": "bash scripts/push-to-github.sh",
+    "publish": "npm run publish:ps"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1"
+  }
+}

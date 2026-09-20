@@ -1,0 +1,203 @@
+[
+  {
+    "id": "Z1-Q1",
+    "zone": 1,
+    "difficulty": "easy",
+    "question": "Pierre Janet和Freud对无意识的观点有何不同？",
+    "expected": "Janet强调心理自动主义，Freud强调幻想性质",
+    "keywords": [
+      "Pierre Janet",
+      "Freud",
+      "Inconscient"
+    ],
+    "note": "p.130有高密度chunk讨论这个话题"
+  },
+  {
+    "id": "Z1-Q2",
+    "zone": 1,
+    "difficulty": "easy",
+    "question": "拉康精神分析如何处理主体性问题？",
+    "expected": "通过符号秩序和能指网络建构主体",
+    "keywords": [
+      "Lacan",
+      "psychanalyse",
+      "sujet",
+      "subjectivité"
+    ],
+    "note": "p.97和p.26有高密度相关chunk"
+  },
+  {
+    "id": "Z1-Q3",
+    "zone": 1,
+    "difficulty": "easy",
+    "question": "精神分析和宗教的共同点是什么？",
+    "expected": "都将主体性限制在符合资本主义逻辑的伦理公理中",
+    "keywords": [
+      "psychanalyse",
+      "religions",
+      "subjectivité"
+    ],
+    "note": "p.28有高密度chunk直接讨论"
+  },
+  {
+    "id": "Z1-Q4",
+    "zone": 1,
+    "difficulty": "easy",
+    "question": "分裂症和精神病之间的关系是什么？",
+    "expected": "分裂症不是认知推导的结果，而是进入精神病秩序的方式",
+    "keywords": [
+      "schizophrenie",
+      "psychotique",
+      "deduction"
+    ],
+    "note": "p.112有相关高密度chunk"
+  },
+  {
+    "id": "Z2-Q1",
+    "zone": 2,
+    "difficulty": "medium",
+    "question": "为什么说精神分析的阉割概念是符号性的而非生物学？",
+    "expected": "需要理解符号秩序、能指与主体的关系",
+    "keywords": [
+      "castration",
+      "Symbolique",
+      "signifiant",
+      "sujet"
+    ],
+    "note": "p.133, 114, 165有castration相关chunk"
+  },
+  {
+    "id": "Z2-Q2",
+    "zone": 2,
+    "difficulty": "medium",
+    "question": "转移（transfert）在精神分析中的功能是什么？",
+    "expected": "精神分析的核心机制，用于处理无意识材料",
+    "keywords": [
+      "transfert",
+      "psychanalyse"
+    ],
+    "note": "p.122, 109有相关chunk"
+  },
+  {
+    "id": "Z2-Q3",
+    "zone": 2,
+    "difficulty": "medium",
+    "question": "拉康的三元结构（想象界、符号界、真实界）如何应用于临床？",
+    "expected": "精神分析的三种秩序及其临床意义",
+    "keywords": [
+      "Imaginaire",
+      "Symbolique",
+      "Réel",
+      "Lacan"
+    ],
+    "note": "p.26有La tripartition lacanienne相关高密度chunk"
+  },
+  {
+    "id": "Z2-Q4",
+    "zone": 2,
+    "difficulty": "medium",
+    "question": "为什么说主体性是被建构的而非先验的？",
+    "expected": "主体通过符号秩序和能指链被建构",
+    "keywords": [
+      "sujet",
+      "subjectivité",
+      "signifiant",
+      "construction"
+    ],
+    "note": "p.1, p.5讨论subjectivité建构"
+  },
+  {
+    "id": "Z3-Q1",
+    "zone": 3,
+    "difficulty": "hard",
+    "question": "比较Pierre Janet、Freud、Karl Jaspers对无意识的理解有何异同？",
+    "expected": "需要综合p.130(Janet/Freud)和p.97(freudisme)等多个chunk",
+    "keywords": [
+      "Pierre Janet",
+      "Freud",
+      "Jaspers",
+      "Inconscient"
+    ],
+    "note": "三位思想家的无意识观点分布在不同页码"
+  },
+  {
+    "id": "Z3-Q2",
+    "zone": 3,
+    "difficulty": "hard",
+    "question": "精神分析如何处理精神病性结构？有哪些临床策略？",
+    "expected": "需要综合分裂症、转移、精神分析临床等多个chunk",
+    "keywords": [
+      "psychose",
+      "schizophrenie",
+      "psychanalyse",
+      "transfert",
+      "clinique"
+    ],
+    "note": "p.112(分裂症), p.122(转移), p.26(临床结构)需要综合"
+  },
+  {
+    "id": "Z3-Q3",
+    "zone": 3,
+    "difficulty": "hard",
+    "question": "从拉康的角度，欲望和需求有何区别？",
+    "expected": "欲望是被符号化的需求，穿越想象层",
+    "keywords": [
+      "désir",
+      "besoin",
+      "Lacan"
+    ],
+    "note": "p.160, p.147讨论désir，可能需要与其他chunk综合"
+  },
+  {
+    "id": "Z4-Q1",
+    "zone": 4,
+    "difficulty": "very-hard",
+    "question": "Guattari对机器欲望的具体定义是什么？",
+    "expected": "文档中Guattari仅出现1次，答案不完整",
+    "keywords": [
+      "Guattari",
+      "machine",
+      "désir"
+    ],
+    "note": "Guattari仅在封面出现，无法从正文回答"
+  },
+  {
+    "id": "Z4-Q2",
+    "zone": 4,
+    "difficulty": "very-hard",
+    "question": "精神分析和精神分裂分析（schizoanalyse）的核心差异是什么？",
+    "expected": "需要跨越整个文档综合，且某些内容可能不在文档中",
+    "keywords": [
+      "psychanalyse",
+      "schizanalytique",
+      "difference"
+    ],
+    "note": "虽然p.30提到cartographie schizanalytique，但差异需要综合大量材料"
+  },
+  {
+    "id": "Z4-Q3",
+    "zone": 4,
+    "difficulty": "impossible",
+    "question": "请详细解释Lacan的\"回到弗洛伊德\"运动的具体历史过程和参与者",
+    "expected": "文档中没有这段历史叙述",
+    "keywords": [
+      "Lacan",
+      "Freud",
+      "retour"
+    ],
+    "note": "文档专注于理论而非历史叙述"
+  },
+  {
+    "id": "Z4-Q4",
+    "zone": 4,
+    "difficulty": "impossible",
+    "question": "根据本文档，拉康派的临床技术手册在哪里可以下载？",
+    "expected": "文档中没有这类实用信息",
+    "keywords": [
+      "manuel",
+      "technique",
+      "telecharger"
+    ],
+    "note": "这是不可能问题，控制组"
+  }
+]

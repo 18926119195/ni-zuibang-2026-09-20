@@ -1,0 +1,31 @@
+# 依赖与虚拟环境
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# 环境变量与密钥
+.env
+.env.*
+
+# 系统/编辑器文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+npm-debug.log*
+
+# 项目内的历史快照、备份、未完成标记文件
+*.prev*.json
+*.bak
+*.new
+sssss
+
+# 大文件语料（不进仓库；本地保留，运行脚本时按需引用）
+# 原始 docuverse JSON 和已经合并好的名词索引单文件都很大，不进版本控制
+docuverse_*.json
+final-noun-index.json
+s0-hits.json
+s0-quality-report.json
+s1-nouns-with-offsets.json
